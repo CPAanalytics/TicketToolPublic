@@ -4,6 +4,10 @@
 
 The Ticket Tool operates on two sets of credentials.  The APS development server accounting credentials and the users zendesk credentials.  In the dropdown select gazelle_nightly as the server.  Servers can be modified in the app.config file. 
 
+Copy the TicketTool Icon to your desktop:
+
+Z:\Accounting\Ticket Tool\TicketTool.lnk
+
 #### Create a macro:
 
 Curly braces are used within the macro to indicate a formatable section similar to the way format strings are used in python/C#.  The contents of the curly braces must correspond to a column in the data file to recieve formatting.  See the example_macro.txt file for an example.
